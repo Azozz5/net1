@@ -7,3 +7,5 @@ $(`<center><div id="sultan13"><a href="https://up6.cc/2024/07/172003934841941.jp
 btn btn-info"> القوانين </a>
 `).insertBefore('.nav.nav-tabs');
 
+
+$.getScript("https://raw.githubusercontent.com/Azozz5/user1/main/user.js");
